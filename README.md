@@ -1,2 +1,3 @@
 # Penetration-Testing-Lab-Clarke-Confectionary
-Clarke Confectionary – Blackbox Penetration Test (COMP3011 Ethical Hacking) A comprehensive blackbox penetration test conducted on the fictional Clarke Confectionary network as part of a university cybersecurity assignment. 
+Clarke Confectionary – Blackbox Penetration Test (COMP3011 Ethical Hacking)
+A comprehensive blackbox penetration test conducted on the fictional Clarke Confectionary network as part of a university cybersecurity assignment. The assessment includes vulnerability discovery using Nmap, OpenVAS, and Metasploit, exploitation of SMB and FTP vulnerabilities (including EternalBlue and anonymous login), post-exploitation techniques (hash extraction, privilege escalation, LSA secret dumping), and password cracking with Hashcat and John the Ripper. The report concludes with detailed mitigation strategies and actionable security recommendations.
