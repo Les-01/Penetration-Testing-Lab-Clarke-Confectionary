@@ -56,10 +56,4 @@ Key Findings
 
     Insecure Configurations – Lack of network segmentation, exposed services
 
-Deliverables
-
-📄 Penetration Testing Report (PDF)
-📁 Tools, scripts, and output samples used during the engagement
-Disclaimer
-
 This project was conducted in a virtual lab environment as part of a university module. It does not represent a real-world attack and was performed in accordance with ethical hacking principles.
