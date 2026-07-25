@@ -2,7 +2,7 @@
 
 Full black-box penetration test of a simulated Windows enterprise network, including exploitation of EternalBlue (MS17-010), post-exploitation, credential dumping and professional reporting.
 
-**Full Project Report (PDF):** [Add link to your PDF here]
+Full Project Report (PDF): https://github.com/Les-01/Penetration-Testing-Lab-Clarke-Confectionary/blob/main/Clarke%20Confectionary%20Penetration%20Test.pdf
 
 ## Overview
 
