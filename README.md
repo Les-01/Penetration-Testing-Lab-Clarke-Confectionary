@@ -1,6 +1,7 @@
 # Clarke Confectionary – Black-Box Penetration Test
 
 Full black-box penetration test of a simulated Windows enterprise network, including exploitation of EternalBlue (MS17-010), post-exploitation, credential dumping and professional reporting.
+
 **Full Project Report (PDF):** [View Report](./Clarke%20Confectionary%20Penetration%20Test.pdf)
 
 ## Overview
